@@ -1,0 +1,36 @@
+html {
+  font-family: "Verdana";
+  background: black;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+
+video {
+  display: block;
+  margin: auto;
+}
+
+img {
+  display: block;
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.greyFont {
+  color: grey;
+  text-align: right;
+}
+
+.links {
+  text-align: center;
+}
