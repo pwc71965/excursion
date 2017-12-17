@@ -9,6 +9,13 @@ h1 {
   font-size: 50px;
 }
 
+h2 {
+  color: white
+  text-align center
+  font-size: 42px;
+  font-weight: 300;
+}
+
 video {
   display: block;
   margin: auto;
@@ -28,9 +35,17 @@ a {
 
 .greyFont {
   color: grey;
-  text-align: right;
+  font-size: 21px;
 }
 
 .links {
+  text-align: center;
+}
+
+#copyright {
+  text-align: right;
+}
+
+#shortDescrip {
   text-align: center;
 }
